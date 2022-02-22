@@ -27,6 +27,7 @@ flake8 = { cmd = "flake8 search tests", help = "Run the flake8 checks for source
 mypy = { cmd = "poetry run mypy search", help = "Run the mypy type checker for potential type errors" }
 pydocstyle = { cmd = "pydocstyle search tests", help = "Run the pydocstyle checks for source code documentation" }
 pylint = { cmd = "pylint search tests", help = "Run the pylint checks for source code documentation" }
+reformat = { cmd = "black search tests", help = "Run the black reformatter for source code" }
 test = { cmd = "pytest -x -s", help = "Run the pytest test suite" }
 test-silent = { cmd = "pytest -x --show-capture=no", help = "Run the pytest test suite without showing output" }
 all = "task black && task flake8 && task pydocstyle && task pylint && task mypy && task test"
