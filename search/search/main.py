@@ -45,6 +45,8 @@ def word(
     console.print()
     # create the full name of the file
     file_fully_qualified = dir / file
+    # TODO: consult the expected output on the course web site for a description
+    # of what type of output your program needs to produce when running in the terminal window
     # TODO: display a message to explain the file that will be input
     # TODO: confirm the file is valid and so the program should search through it for the word
     # --> TODO: read in the contents of the file
