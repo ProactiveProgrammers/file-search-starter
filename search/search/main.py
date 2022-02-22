@@ -1,8 +1,8 @@
 # TODO: add a module-level docstring to describe the purpose of this program
 
-from rich.console import Console
-
 from pathlib import Path
+
+from rich.console import Console
 
 import typer
 
@@ -13,14 +13,18 @@ def confirm_valid_file(file: Path) -> bool:
     """Confirm that the provided file is a valid path."""
     # TODO: determine if the file is not None and if it is a file
     # TODO: return a value to indicate if the file is valid
+    # by checking that the is_file() function returns True
+    # TODO: This function should return True when the file is
+    # not None and it is also a valid file. Otherwise, this
+    # function should return False to indicate it is not value.
     return False
 
 
 def human_readable_boolean(answer: bool) -> str:
     """Produce a human-readable Yes or No for a boolean value of True or False."""
     # TODO: determine if the boolean value is True or False
-    # if it is True, then return "Yes"
-    # if it is False, then return "No"
+    # TODO: if the input variable answer is True, then return "Yes"
+    # TODO: if the input variable answer is False, then return "No"
 
 
 def word_search(text: str, word: str) -> bool:
