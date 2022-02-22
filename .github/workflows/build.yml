@@ -71,6 +71,7 @@ jobs:
             cd search
             poetry install
             poetry run search --word ethical --dir input --file proactive.txt
+            poetry run search --word awesome --dir input --file proactive.txt
         # Run the black code formatter in checking mode
         - name: Run Black Code Formatter
           run: |
