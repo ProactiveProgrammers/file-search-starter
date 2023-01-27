@@ -61,7 +61,7 @@ TODO: Describe the third way for running the program, giving a command and a par
 
 - TODO: provide a command
 
-### What was the greatest challenge that you faced when completing this assignment?
+### Identify a programming concept in this project and connect it to mathematics
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
 
