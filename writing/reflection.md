@@ -45,6 +45,10 @@ TODO: You should leverage what you learned from the tutorial during the S.O.S we
 
 ### What are three different ways in which you can run the `search` program?
 
+Note: Each of the three ways to run the program should be a significantly
+different as is possible. You should furnish responses to this question that
+demonstrate your knowledge of Python and the Poetry package manager.
+
 TODO: Describe the first way for running the program, giving a command and a paragraph
 
 - TODO: provide a command
