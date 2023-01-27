@@ -36,12 +36,12 @@ TODO: Write at least one paragraph to explain the request source code
 ### What is the purpose of the `pyproject.toml` file?
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
-TODO: You may leverage your answer from the S.O.S Checkpoint assignment!
+TODO: You should leverage what you learned from the tutorial during the S.O.S week!
 
 ### What is the purpose of the `poetry.lock` file?
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
-TODO: You may leverage your answer from the S.O.S Checkpoint assignment!
+TODO: You should leverage what you learned from the tutorial during the S.O.S week!
 
 ### What are three different ways in which you can run the `search` program?
 
